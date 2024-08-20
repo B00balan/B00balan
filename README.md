@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I code in
 
+    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/python.png" alt="python"/>
