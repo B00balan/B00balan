@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 I code in
 
-    <img width="50" height="50" src="https://img.icons8.com/ios-filled/50/python.png" alt="python"/>
+    
+    <a href="https://icons8.com/icon/24045/python">Python</a> icon by <a href="https://icons8.com">Icons8</a>
