@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Boobalan M</h1>
+<h1 align="center">Hi 👋, I'm Boobalan M</h1> ![image](https://github.com/user-attachments/assets/d99278d1-ec19-4d47-a4b7-ddd37f4426fd)
+
 <h3 align="center">Full stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=b00balan&label=Profile%20views&color=0e75b6&style=flat" alt="b00balan" /> </p>
