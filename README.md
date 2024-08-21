@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Boobalan M</h1> ![image](https://github.com/user-attachments/assets/d99278d1-ec19-4d47-a4b7-ddd37f4426fd)
+<h1 align="center">Hi 👋, I'm Boobalan M</h1> [![image](https://github.com/user-attachments/assets/d99278d1-ec19-4d47-a4b7-ddd37f4426fd)]
 
 <h3 align="center">Full stack developer.</h3>
 
