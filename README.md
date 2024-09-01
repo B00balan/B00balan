@@ -43,5 +43,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=b00balan&show_icons=true&locale=en" alt="b00balan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=b00balan&" alt="b00balan" /></p>
-<a href="https://www.hackerrank.com/profile/boobalan51436">Hackerrank</a>
+<a href="https://www.hackerrank.com/profile/boobalan51436">Hackerrank</a> <br>
 [![LeetCode Stats](https://leetcard.jacoblin.cool/B00balan?theme=forest&font=Marcellus&ext=contest)
